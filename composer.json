@@ -11,8 +11,8 @@
         "laravelmixhelper"
     ],
     "support": {
-        "docs": "https://github.com/d-pollard/laravel-mix-helper/blob/master/README.md",
-        "issues": "https://github.com/d-pollard/laravel-mix-helper/issues"
+        "docs": "https://github.com/d-pollard/craftcms-laravelmixhelper/blob/master/README.md",
+        "issues": "https://github.com/d-pollard/craftcms-laravelmixhelper/issues"
     },
     "license": "MIT",
     "authors": [
@@ -40,8 +40,8 @@
         "handle": "laravel-mix-helper",
         "developer": "Derek Pollard",
         "developerUrl": "https://derekcodes.com",
-        "documentationUrl": "https://github.com/d-pollard/laravel-mix-helper/blob/master/README.md",
-        "changelogUrl": "https://raw.githubusercontent.com/d-pollard/laravel-mix-helper/master/CHANGELOG.md",
+        "documentationUrl": "https://github.com/d-pollard/craftcms-laravelmixhelper/blob/master/README.md",
+        "changelogUrl": "https://raw.githubusercontent.com/d-pollard/craftcms-laravelmixhelper/master/CHANGELOG.md",
         "class": "dpollard\\laravelmixhelper\\LaravelMixHelper"
     }
 }
