@@ -1,0 +1,47 @@
+{
+    "name": "dpollard/craftcms-laravelmixhelper",
+    "description": "A helper to handle laravel mix",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "laravelmixhelper"
+    ],
+    "support": {
+        "docs": "https://github.com/d-pollard/laravel-mix-helper/blob/master/README.md",
+        "issues": "https://github.com/d-pollard/laravel-mix-helper/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Derek Pollard",
+            "homepage": "https://derekcodes.com"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0",
+        "ext-json": "*"
+    },
+    "require-dev": {
+      "craftcms/cms": "^3.2.0",
+      "codeception/codeception": "^3.0",
+      "vlucas/phpdotenv": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "dpollard\\laravelmixhelper\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "LaravelMixHelper",
+        "handle": "laravel-mix-helper",
+        "developer": "Derek Pollard",
+        "developerUrl": "https://derekcodes.com",
+        "documentationUrl": "https://github.com/d-pollard/laravel-mix-helper/blob/master/README.md",
+        "changelogUrl": "https://raw.githubusercontent.com/d-pollard/laravel-mix-helper/master/CHANGELOG.md",
+        "class": "dpollard\\laravelmixhelper\\LaravelMixHelper"
+    }
+}
