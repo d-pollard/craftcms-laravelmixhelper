@@ -23,7 +23,7 @@
     "require": {
         "craftcms/cms": "^3.0.0",
         "ext-json": "*",
-        "symfony/polyfill-php80": "^1.22"
+        "symfony/polyfill-php80": "^1.15"
     },
     "require-dev": {
       "craftcms/cms": "^3.2.0",
